@@ -10,10 +10,10 @@ export default {
 </script>
 <style scoped>
 #footer {
-  height: 230px;
+  height: 150px;
   background-color: #222;
   border-top: 4px solid #111;
-  color: #FCBA03;
+  color: #706956;
   display: flex;
   align-items: center;
   justify-content: center;
