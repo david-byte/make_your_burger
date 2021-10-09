@@ -103,6 +103,19 @@
       "opcionais": [],
       "status": "Solicitado",
       "id": 3
+    },
+    {
+      "nome": "Andreza",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 4
     }
   ]
 }
